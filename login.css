@@ -110,3 +110,9 @@ p {
     color: var(--thirdcolor);
     font-size: larger;
 }
+a:hover{
+    color: var(--thirdcolor);
+}
+.create:hover {
+    color: var(--secondcolor);
+}
